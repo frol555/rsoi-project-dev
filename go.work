@@ -1,0 +1,10 @@
+go 1.20
+
+use (
+	./auth-service
+	./event-service
+	./gateway-service
+	./info-service
+	./pay-service
+	./statistic-service
+)
